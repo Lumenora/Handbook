@@ -5,6 +5,7 @@ _Note this is still in draft form. What you are seeing is not a finished nor a c
 ## Introduction to Lumenora
 - [Mission Statement](https://github.com/Lumenora/Handbook/blob/master/Introduction/Mission_Statement.md)
 - [Values](https://github.com/Lumenora/Handbook/blob/master/Introduction/Values.md)
+- [Disclaimer](https://github.com/Lumenora/Handbook/blob/master/Introduction/Disclaimer)
 
 ## Engagement Policies
 
