@@ -11,6 +11,13 @@ Our community is dedicated to creating an inclusive environment for everyone, re
 
 We reserve the right to determine the appropriate level of disciplinary action for disruptive and/or inappropriate conduct. Disciplinary action can include written or verbal warnings, suspension with or without pay, and discharge. Each situation will be dealt with on an individual basis.
 
+## Best Practices
+
+- [Treat this company like your company.] Whether you're weighing in on a particularly emotionally-charged comment thread, pondering a charge on your company credit card, or about to book some business travel, always speak/act/book/buy as if the company belonged to you. Use your best judgement, always.
+
+- [Don't be a jerk.] And make it right if you realize you've been one.
+
+
 ## Zero Tolerance Policy 
 
 We do not tolerate harassment, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a co-worker, lead, manager, executive, applicant, client/customer, vendor or community member of any kind.
