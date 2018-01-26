@@ -1,6 +1,7 @@
 # The Lumenora Handbook
 
 ## Introduction to Lumenora
+- [Mission Statement](https://github.com/Lumenora/Handbook/blob/master/Introduction/Mission_Statement.md)
 - [Values](https://github.com/Lumenora/Handbook/blob/master/Introduction/Values.md)
 
 ## Engagement Policies
