@@ -11,7 +11,7 @@ This code of conduct applies to community members and Lumenora team members in a
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
-We do not tolerate harassment or bullying of community members in any form. 
+We do not tolerate harassment, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a co-worker, lead, manager, executive, applicant, client/customer, vendor or community member of any kind.
 
 Harassment includes offensive verbal comments related to the protected classes above, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.  
 
