@@ -1,5 +1,7 @@
 # The Lumenora Handbook
 
+* Note this is still in draft form. What you are seeing is not a finished nor a complete product. If you would like to change, add, contribute, edit or pass on best practices to be included, you may fork and suggest edits through GitHub. Thank you! 
+
 ## Introduction to Lumenora
 - [Mission Statement](https://github.com/Lumenora/Handbook/blob/master/Introduction/Mission_Statement.md)
 - [Values](https://github.com/Lumenora/Handbook/blob/master/Introduction/Values.md)
