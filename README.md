@@ -1,7 +1,7 @@
 # The Lumenora Handbook
 
 ## Introduction to Lumenora
-- [Values] (https://github.com/Lumenora/Handbook/blob/master/Introduction/Values.md)
+- [Values](https://github.com/Lumenora/Handbook/blob/master/Introduction/Values.md)
 
 ## Engagement Policies
 
