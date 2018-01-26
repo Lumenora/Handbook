@@ -25,3 +25,4 @@ These are the trademarks that Lumenora has been using since February of 2016 to 
 * True AR and True VR (TM)
 * True augmented reality and true virtual reality (TM)
 * New Reality (TM)
+* Enhance Your Capability (TM)
