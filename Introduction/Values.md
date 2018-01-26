@@ -9,10 +9,9 @@
 ## Results 
 - Team Work - We are here to support one another. It makes the dream work 
 - Openness - We want people to feel safe asking for help, clarification and working together to create the best results possible (it doesn't mean confidential information can be shared) 
-- Personal Growth - We want people who understand that they can always be better or contribute more in different ways. We want to actively encourage people to explore their skills, strengths and to constantly be assessing how they are contributing, how they could be contributing and ways they could contribute better. 
-
 - Innovation 
 - Future and customer focused
+- Quality of work 
 
 ## Efficiency 
 - Measure twice and cut once - It is important to make sure that objectives are well understood and that we each deliver something that is quality work, even if it takes a little longer.  This includes making sure the balance between perfection and good is understood and executed upon. 
@@ -20,3 +19,4 @@
 
 ## Humanness 
 - Diversity 
+- Personal Growth - We want people who understand that they can always be better or contribute more in different ways. We want to actively encourage people to explore their skills, strengths and to constantly be assessing how they are contributing, how they could be contributing and ways they could contribute better. 
