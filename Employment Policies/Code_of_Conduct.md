@@ -3,7 +3,7 @@
 
 ## Scope
 
-This policy applies to all employees of Nylas. All workers, including managers, will be subject to discipline, up to and including discharge, for any act of sexual harassment they commit.
+This policy applies to all employees of Lumenora, and is expected of all representatives in any form. All workers, including managers, will be subject to discipline, up to and including discharge, for any act of sexual harassment they commit.
 
 ## Expectations 
 
