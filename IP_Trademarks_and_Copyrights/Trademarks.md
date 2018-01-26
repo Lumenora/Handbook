@@ -24,3 +24,4 @@ These are the trademarks that Lumenora has been using since June of 2016. Use of
 * The Future is Here (TM) 
 * True AR and True VR (TM)
 * True augmented reality and true virtual reality (TM)
+* New Reality (TM)
