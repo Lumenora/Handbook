@@ -1,13 +1,13 @@
 # Values
 
 ## Excellence 
-- [Empowerment] - We exist to empower our customers first and we can do this by empowering one another. 
-- EQ vs. IQ - While sometimes in being honest, feelings can be hurt, it is counter productive to take one's feelings and emotions out on others, as well as put someone down in a way that makes them
+- _Empowerment_ - We exist to empower our customers first and we can do this by empowering one another. 
+- _EQ vs. IQ_ - While sometimes in being honest, feelings can be hurt, it is counter productive to take one's feelings and emotions out on others, as well as put someone down in a way that makes them
 - Integrity - In all that we do, integrity is most important
 - Love for product
 
 ## Results 
-- [Team Work & Cohesion] - We are here to support one another. It makes the dream work 
+- _Team Work & Cohesion_ - We are here to support one another. It makes the dream work 
 - Openness - We want people to feel safe asking for help, clarification and working together to create the best results possible (it doesn't mean confidential information can be shared) 
 - Innovation 
 - Future and customer focused
