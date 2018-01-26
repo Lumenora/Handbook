@@ -3,13 +3,13 @@
 
 ## Scope
 
-This policy applies to all employees of Lumenora, and is expected of representatives in any form. All workers, including managers, will be subject to discipline, up to and including discharge, for any act of sexual harassment they commit.
+This policy applies to all employees of Lumenora, and is expected of representatives in any form including all Lumenora communities online (including but not limited to support chat, online forums, the Lumenora Community Slack group, Twitter, and Facebook), in the Lumenora office, and at all events hosted by Lumenora.
 
 ## Expectations 
 
-This code of conduct applies to community members and Lumenora team members in all Lumenora communities online (including but not limited to support chat, online forums, the Lumenora Community Slack group, Twitter, and Facebook), in the Lumenora office, and at all events hosted by Lumenora.
-
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
+
+## Zero Tolerance Policy 
 
 We do not tolerate harassment, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a co-worker, lead, manager, executive, applicant, client/customer, vendor or community member of any kind.
 
