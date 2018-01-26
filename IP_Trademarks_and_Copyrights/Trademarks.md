@@ -20,3 +20,5 @@ These are the trademarks that Lumenora has been using since June of 2016. Use of
 * Better Life (TM) 
 * Enhance Human Capability (TM)
 * Reality You Cannot Compute (TM)
+* The Future is Now (TM)
+* The Future is Here (TM) 
