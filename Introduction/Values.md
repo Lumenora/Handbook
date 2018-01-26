@@ -12,3 +12,6 @@
 - Innovation 
 - Future and customer focused
 - Excellence 
+- Results 
+- Efficiency 
+- Diversity 
