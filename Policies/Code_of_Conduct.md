@@ -9,6 +9,8 @@ This policy applies to all employees of Lumenora, and is expected of representat
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 
+We reserve the right to determine the appropriate level of disciplinary action for disruptive and/or inappropriate conduct. Disciplinary action can include written or verbal warnings, suspension with or without pay, and discharge. Each situation will be dealt with on an individual basis.
+
 ## Zero Tolerance Policy 
 
 We do not tolerate harassment, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a co-worker, lead, manager, executive, applicant, client/customer, vendor or community member of any kind.
@@ -20,6 +22,20 @@ Bullying includes repeated, health-harming, and productivity-harming mistreatmen
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance.
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Rose or Krista immediately.
+
+Examples of behavior that may result in disciplinary action, including possible termination, are:
+- reporting to work ill-equipped or willfully unable to perform your duties as scheduled
+- treating others in a discourteous manner
+- threatening or intimidating others
+- using abusive language
+- racist, sexist, or homophobic behavior 
+- sexual or any other form of harassment
+- reporting for work under the influence of alcohol/drugs
+- violation of company policies or directives
+- refusal to follow instructions concerning an employment or contract-related directive
+- misuse of company time and/or resources
+- failure to meet job performance standards
+
 
 ## Retaliation 
 
