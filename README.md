@@ -2,4 +2,4 @@
 
 ## Employment & Representitiave Policies
 
-- [Code of Conduct](https://github.com/nylas/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md)
+- [Code of Conduct](https://github.com/Lumenora/Handbook/blob/master/Employment%20Policies/Code_of_Conduct.md)
