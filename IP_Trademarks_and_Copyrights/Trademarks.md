@@ -4,7 +4,7 @@ _Note this is still in draft form. What you are seeing is not a finished nor a c
 
 ## Scope
 
-These are the trademarks that Lumenora has been using since June of 2016 to differentiate our products and services. Use of these in any of the following, but not limited to, domains is prohibited. 
+These are the trademarks that Lumenora has been using since February of 2016 to differentiate our products and services. Use of these in any of the following, but not limited to, domains is prohibited. 
 * Augmented reality
 * Virtual reality
 * Artificial intelligence 
