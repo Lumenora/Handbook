@@ -9,3 +9,6 @@ _Note this is still in draft form. What you are seeing is not a finished nor a c
 ## Engagement Policies
 
 - [Code of Conduct](https://github.com/Lumenora/Handbook/blob/master/Policies/Code_of_Conduct.md)
+
+## IP
+- [Trademarks and Copyrights] 
